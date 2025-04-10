@@ -1,6 +1,7 @@
 {
   "name": "mood-garden-viz",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "homepage": "https://yuriwg.github.io/mood-garden-viz",
   "private": true,
   "dependencies": {
     "d3": "^7.9.0",
@@ -10,12 +11,14 @@
     "styled-components": "^6.1.17",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
+ "scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject",
+  "predeploy": "npm run build",
+  "deploy": "node deploy-alt.js"
+},
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -33,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }

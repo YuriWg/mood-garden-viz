@@ -12,7 +12,7 @@
 
 ## 在线演示
 
-[在线访问地址](#) // 部署后添加链接
+[在线访问地址](https://github.com/YuriWg/mood-garden-viz) // 部署后添加链接
 
 ## 技术栈
 
@@ -26,7 +26,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/yourusername/mood-garden-viz.git
+git clone https://github.com/YuriWg/mood-garden-viz.git
 
 # 安装依赖
 cd mood-garden-viz

@@ -12,7 +12,7 @@
 
 ## 在线演示
 
-[在线访问地址](https://github.com/YuriWg/mood-garden-viz) // 部署后添加链接
+[在线访问地址](https://github.com/YuriWg/mood-garden-viz) 
 
 ## 技术栈
 

@@ -11,11 +11,7 @@
 
 ## 在线演示
 
-<<<<<<< HEAD
 [在线访问地址](https://github.com/YuriWg/mood-garden-viz) 
-=======
-[在线访问地址](https://github.com/YuriWg/mood-garden-viz) // 部署后添加链接
->>>>>>> 4d568cdff0ae590ace0c8f2c59f6b095f42f51a5
 
 ## 技术栈
 
@@ -37,10 +33,3 @@ npm install
 
 # 启动开发服务器
 npm run dev
-
-![image](https://github.com/user-attachments/assets/8318516b-25aa-4c16-aff2-14d1b0861931)
-<<<<<<< HEAD
-![image](https://github.com/user-attachments/assets/35fb4bf2-43ec-4e5e-b4fe-0a830ddddb8c)
-=======
-![image](https://github.com/user-attachments/assets/35fb4bf2-43ec-4e5e-b4fe-0a830ddddb8c)
->>>>>>> 4d568cdff0ae590ace0c8f2c59f6b095f42f51a5
